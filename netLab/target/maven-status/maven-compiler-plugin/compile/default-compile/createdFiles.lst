@@ -1,3 +1,4 @@
-Client.class
+ClientApp.class
+ServerApp.class
 Server.class
-StartUp.class
+Client.class
